@@ -10,4 +10,4 @@ pip install -r requirements.txt
 
 The --watch flag keeps it running and polls for new pools. Without it, does one scan and exits.
 
-<!-- updated: 2026-10-08 -->
+<!-- updated: 2026-10-09 -->
